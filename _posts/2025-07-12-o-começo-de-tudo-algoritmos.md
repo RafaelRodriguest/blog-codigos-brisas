@@ -7,8 +7,6 @@ categories: [Programação, Fundamentos]
 tags: [algoritmos, fundamentos, estruturas de dados]
 ---
 
-# O COMEÇO DE TUDO: ALGORITMOS
-
 
 > "A diferença entre alguém que só sabe programar e um programador de verdade está nos fundamentos. E, entre eles, nada é mais fundamental do que os algoritmos."
 
