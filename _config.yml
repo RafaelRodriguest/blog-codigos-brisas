@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Código & Brisas # the main title
 
-tagline: Programação, engenharia, tecnologia e reflexões. # it will display as the subtitle
+tagline: Programação, tecnologia e reflexões. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

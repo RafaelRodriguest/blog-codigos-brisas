@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Programação é Programação: Por Que Não Existem "Mundos Diferentes"'
+title: 'Programação é programação: Por que não existem "Mundos Diferentes"'
 author: cotes
 date: 2025-07-18 14:20:00 -300
 categories: [Programação, Carreira]
 tags: [fundamentos, clp, web, embarcados, carreira]
 ---
-Trabalho alguns anos com desenvolvimento para CLPs, Web e sistemas embarcados. E sempre me intrigou um fenômeno: o cara que cria Single Page Applications em React acha um programa em ST (Structured Text) para CLP um bicho de sete cabeças. E o engenheiro que domina Ladder olha para um backend em Node.js como se fosse magia negra.
+Eu trabalho faz alguns anos com desenvolvimento para CLPs, Web e sistemas embarcados. E sempre me intrigou um fenômeno: o cara que cria Single Page Applications em React acha um programa em ST (Structured Text) para CLP um bicho de sete cabeças. E o engenheiro que domina Ladder olha para um backend em Node.js como se fosse magia negra.
 
 **Isso não faz sentido.** 
 
@@ -98,7 +98,7 @@ Pegue um problema simples (ex.: controle de temperatura) e implemente:
 
 **Você verá que a lógica central é idêntica.**
 
-## Conclusão: O Programador Completo
+## O Programador Completo
 
 Na minha visão, **o profissional do futuro** (e já do presente) é aquele que para de ver "CLP vs Web vs Embarcados" e passa a ver **Programação**. Ponto.
 Porque no fim, **máquinas e browsers são todos computadores - e quem domina os fundamentos, domina todos eles**.
