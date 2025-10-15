@@ -1,0 +1,153 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/</id>
+  <title>Código 404</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-10-15T20:32:52-03:00</updated>
+  <author>
+    <name>Rafael Rodrigues</name>
+    <uri>https://rafaelrodriguest.github.io/blog-codigos-brisas/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://rafaelrodriguest.github.io/blog-codigos-brisas/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="pt-BR"
+    href="https://rafaelrodriguest.github.io/blog-codigos-brisas/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Rafael Rodrigues </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Omarchy 2.0 : Minhas impressões</title>
+    <link href="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/Omarchy-Instala%C3%A7%C3%A3o-e-minhas-impress%C3%B5es/" rel="alternate" type="text/html" title="Omarchy 2.0 : Minhas impressões" />
+    <published>2025-10-12T10:00:00-03:00</published>
+  
+    <updated>2025-10-12T10:00:00-03:00</updated>
+  
+    <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/Omarchy-Instala%C3%A7%C3%A3o-e-minhas-impress%C3%B5es/</id>
+    <content type="text/html" src="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/Omarchy-Instala%C3%A7%C3%A3o-e-minhas-impress%C3%B5es/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Setup" />
+    
+    <category term="Linux" />
+    
+  
+
+  <summary>O Omarchy e sua filosofia  O Omarchy é uma configuração de ambiente de desktop para o sistema operacional Linux, criada por David Heinemeier Hansson (DHH), o criador do framework Ruby on Rails e cofundador da empresa 37signals. Ele não é uma distribuição Linux totalmente nova, mas sim uma instalação opinativa baseada no Arch Linux, que utiliza o gerenciador de janelas em mosaico Hyprland.   His...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>O problema das vídeoaulas e tutoriais</title>
+    <link href="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-problema-das-videos-aulas-e-tutoriais/" rel="alternate" type="text/html" title="O problema das vídeoaulas e tutoriais" />
+    <published>2025-08-23T10:00:00-03:00</published>
+  
+    <updated>2025-08-23T10:00:00-03:00</updated>
+  
+    <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-problema-das-videos-aulas-e-tutoriais/</id>
+    <content type="text/html" src="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-problema-das-videos-aulas-e-tutoriais/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Programação" />
+    
+    <category term="Aprendizado" />
+    
+  
+
+  <summary>Se você está começando ou já trilha há algum tempo o caminho da programação e da tecnologia, já se pegou nesse ciclo: um problema surge, você abre o YouTube, digita o nome da tecnologia + “tutorial” e espera que em 15 minutos um instrutor simpático resolva tudo para você.  Não se preocupe, você não está sozinho. Essa é a realidade da grande maioria hoje. As vídeo aulas são ferramentas incrivelm...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Programação é programação: Por que não existem "Mundos Diferentes"</title>
+    <link href="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/%C3%89-tudo-programa%C3%A7%C3%A3o/" rel="alternate" type="text/html" title="Programação é programação: Por que não existem &amp;quot;Mundos Diferentes&amp;quot;" />
+    <published>2025-07-18T14:20:00-03:00</published>
+  
+    <updated>2025-07-18T14:20:00-03:00</updated>
+  
+    <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/%C3%89-tudo-programa%C3%A7%C3%A3o/</id>
+    <content type="text/html" src="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/%C3%89-tudo-programa%C3%A7%C3%A3o/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Programação" />
+    
+    <category term="Carreira" />
+    
+  
+
+  <summary>Eu trabalho faz alguns anos com desenvolvimento para CLPs, Web e sistemas embarcados. E sempre me intrigou um fenômeno: o cara que cria Single Page Applications em React acha um programa em ST (Structured Text) para CLP um bicho de sete cabeças. E o engenheiro que domina Ladder olha para um backend em Node.js como se fosse magia negra.  Isso não faz sentido.  Programar - seja para um PLC, um na...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>O Esqueleto do código: Estruturas de dados</title>
+    <link href="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/estruturas-de-dados-o-esqueleto-do-seu-codigo/" rel="alternate" type="text/html" title="O Esqueleto do código: Estruturas de dados" />
+    <published>2025-07-18T09:15:00-03:00</published>
+  
+    <updated>2025-07-18T09:15:00-03:00</updated>
+  
+    <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/estruturas-de-dados-o-esqueleto-do-seu-codigo/</id>
+    <content type="text/html" src="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/estruturas-de-dados-o-esqueleto-do-seu-codigo/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Programação" />
+    
+    <category term="Fundamentos" />
+    
+  
+
+  <summary>“Dados são como tijolos. Pode até construir uma casa jogando eles no chão, mas sem uma estrutura, você só terá um monte de entulho.”   Se algoritmos são o como resolver um problema, estruturas de dados são o onde guardar as peças desse quebra-cabeça.  E eu adoro uma analogia. Pense nelas como móveis:     Um array é como uma gaveta de meias: você sabe exatamente onde cada par está (índice), mas ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>O Começo de tudo: Algoritmos</title>
+    <link href="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-come%C3%A7o-de-tudo-algoritmos/" rel="alternate" type="text/html" title="O Começo de tudo: Algoritmos" />
+    <published>2025-07-11T00:34:00-03:00</published>
+  
+    <updated>2025-07-11T00:34:00-03:00</updated>
+  
+    <id>https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-come%C3%A7o-de-tudo-algoritmos/</id>
+    <content type="text/html" src="https://rafaelrodriguest.github.io/blog-codigos-brisas/posts/o-come%C3%A7o-de-tudo-algoritmos/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Programação" />
+    
+    <category term="Fundamentos" />
+    
+  
+
+  <summary>“A diferença entre alguém que só sabe programar e um programador de verdade está nos fundamentos. E, entre eles, nada é mais fundamental do que os algoritmos.”   Se você é programador, já deve ter ouvido essa frase em algum momento: aprenda algoritmos.  E sim, é um daqueles conselhos que a gente escuta no começo da caminhada e que muitos ignoram.  A verdade é que, com tantos frameworks, bibliot...</summary>
+
+  </entry>
+
+</feed>
+
+

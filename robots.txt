@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://rafaelrodriguest.github.io/blog-codigos-brisas/sitemap.xml

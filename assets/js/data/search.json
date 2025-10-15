@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Omarchy 2.0 : Minhas impressões",
+    "url": "/posts/Omarchy-Instala%C3%A7%C3%A3o-e-minhas-impress%C3%B5es/",
+    "categories": "Setup, Linux",
+    "tags": "Linux, Omarchy, Setup, Minimalismo",
+    "date": "2025-10-12 10:00:00 -0300",
+    "content": "O Omarchy e sua filosofia  O Omarchy é uma configuração de ambiente de desktop para o sistema operacional Linux, criada por David Heinemeier Hansson (DHH), o criador do framework Ruby on Rails e co..."
+  },
+  {
+    "title": "O problema das vídeoaulas e tutoriais",
+    "url": "/posts/o-problema-das-videos-aulas-e-tutoriais/",
+    "categories": "Programação, Aprendizado",
+    "tags": "aprendizado, documentação, autodidatismo, carreira",
+    "date": "2025-08-23 10:00:00 -0300",
+    "content": "Se você está começando ou já trilha há algum tempo o caminho da programação e da tecnologia, já se pegou nesse ciclo: um problema surge, você abre o YouTube, digita o nome da tecnologia + “tutorial..."
+  },
+  {
+    "title": "Programação é programação: Por que não existem \"Mundos Diferentes\"",
+    "url": "/posts/%C3%89-tudo-programa%C3%A7%C3%A3o/",
+    "categories": "Programação, Carreira",
+    "tags": "fundamentos, clp, web, embarcados, carreira",
+    "date": "2025-07-18 14:20:00 -0300",
+    "content": "Eu trabalho faz alguns anos com desenvolvimento para CLPs, Web e sistemas embarcados. E sempre me intrigou um fenômeno: o cara que cria Single Page Applications em React acha um programa em ST (Str..."
+  },
+  {
+    "title": "O Esqueleto do código: Estruturas de dados",
+    "url": "/posts/estruturas-de-dados-o-esqueleto-do-seu-codigo/",
+    "categories": "Programação, Fundamentos",
+    "tags": "estruturas de dados, algoritmos, eficiência",
+    "date": "2025-07-18 09:15:00 -0300",
+    "content": "“Dados são como tijolos. Pode até construir uma casa jogando eles no chão, mas sem uma estrutura, você só terá um monte de entulho.”   Se algoritmos são o como resolver um problema, estruturas de d..."
+  },
+  {
+    "title": "O Começo de tudo: Algoritmos",
+    "url": "/posts/o-come%C3%A7o-de-tudo-algoritmos/",
+    "categories": "Programação, Fundamentos",
+    "tags": "algoritmos, fundamentos, estruturas de dados",
+    "date": "2025-07-11 00:34:00 -0300",
+    "content": "“A diferença entre alguém que só sabe programar e um programador de verdade está nos fundamentos. E, entre eles, nada é mais fundamental do que os algoritmos.”   Se você é programador, já deve ter ..."
+  }
+  
+]
+
