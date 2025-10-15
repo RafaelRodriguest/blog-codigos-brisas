@@ -3,7 +3,12 @@
 
 source "https://rubygems.org"
 
-gemspec
+#gemspec
+
+#gem "github-pages", group: :jekyll_plugins
+
+# Adicione explicitamente o tema Chirpy como uma gem
+gem "jekyll-theme-chirpy"
 
 gem "html-proofer", "~> 5.0", group: :test
 
@@ -12,4 +17,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-#gem "github-pages", group: :jekyll_plugin> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
