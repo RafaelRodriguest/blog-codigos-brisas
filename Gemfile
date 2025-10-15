@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Adicione explicitamente o tema Chirpy como uma gem
 gem "jekyll-theme-chirpy"
 
+gem "jekyll-include-cache", "~> 0.2"
+
 gem "html-proofer", "~> 5.0", group: :test
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
