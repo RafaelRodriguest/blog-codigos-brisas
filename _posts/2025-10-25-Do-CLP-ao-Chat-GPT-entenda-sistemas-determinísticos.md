@@ -103,5 +103,5 @@ Se a resposta incluir morte, lesão, perda financeira catastrófica ou dano ambi
 
 Você não precisa evitar IA. Você precisa entender sua natureza e projetar sistemas que a usem apropriadamente. Você precisa reconhecer que um LLM é uma ferramenta probabilística incrível para certos problemas, e completamente inadequada para outros. Você precisa aceitar que velocidade na maioria dos casos não substitui garantias no pior caso. A diferença entre essas escolhas, em alguns sistemas, define se alguém vive ou morre. Em outros, restrições de tempo não tem tanta relevância assim. 
 
-Saber qual é qual—isso define que tipo de engenheiro você é.
+Saber qual é qual ,isso define que tipo de engenheiro você é.
 
