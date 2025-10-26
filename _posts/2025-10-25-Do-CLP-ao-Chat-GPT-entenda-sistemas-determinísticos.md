@@ -17,7 +17,7 @@ Isso é engenharia pura. E a forma como programadores lidam com isso ou deixam d
 
 Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo estado inicial, você sempre obtém a mesma saída no mesmo tempo. Não "provavelmente". Não "na maioria das vezes". Sempre. 
 
-Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes para as mesmas condições iniciais. Isso se opõe radicalmente aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade intrínseca—seja por design, seja por limitações arquiteturais. 
+Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes para as mesmas condições iniciais. Isso se opõe radicalmente aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade intrínseca seja por design, seja por limitações arquiteturais. 
 
  
   ![FUNCTION_DETERMINISM](assets/img/function_determinism.png)
