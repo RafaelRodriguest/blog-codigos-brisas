@@ -8,144 +8,50 @@ tags: [algoritmos, fundamentos, estruturas de dados]
 ---
 
 
-> "A diferença entre alguém que só sabe programar e um programador de verdade está nos fundamentos. E, entre eles, nada é mais fundamental do que os algoritmos."
+A diferença entre alguém que só sabe programar e um programador de verdade está nos fundamentos. E entre eles, nada é mais fundamental do que os algoritmos.
 
-Se você é programador, já deve ter ouvido essa frase em algum momento: **aprenda algoritmos**.
+Você já ouviu esse conselho. Provavelmente ignorou. Eu entendo.
 
-E sim, é um daqueles conselhos que a gente escuta no começo da caminhada e que muitos ignoram.
+Com frameworks novos toda semana, Stack Overflow respondendo tudo, e agora IAs escrevendo código inteiro, parece que dá pra construir qualquer coisa sem entender o que está por trás. E dá mesmo. Por um tempo.
 
-A verdade é que, com tantos frameworks, bibliotecas prontas e soluções (pra quem é mais antigo) em fóruns e Stack Overflows da vida, e agora com os geradores de código baseados em inteligência artificial, **muita gente acaba construindo sem entender o que está por trás**.
+Mas sem fundamentos, você sempre bate no teto. Sempre.
 
-Mas se tem uma coisa que eu aprendi nos meus anos de estrada é que **sem fundamentos, você sempre vai bater no teto**.
+Programar sem entender algoritmos é como tocar guitarra sem saber os acordes básicos. Você até engana por um tempo, mas trava quando precisa improvisar. E programação é improvisação o tempo todo.
 
-Ao longo dos meus posts, eu baterei nessa tecla das bases e fundamentos como espinha dorsal de um bom profissional.
+Um algoritmo é só uma sequência lógica de passos para resolver um problema. Tipo uma receita de bolo. Ingredientes entram, você segue os passos, bolo sai. Troca a ordem, pula uma etapa, vira desastre.
 
-Assim como entender o funcionamento de um motor de carro é importante para um mecânico, no caso de programadores, **algoritmo é base. É raiz. É o começo de tudo.**
+Qualquer código que você escreve é um algoritmo. A questão é se é um bom algoritmo.
 
-Programar sem entender algoritmos é como querer tocar guitarra sem saber os acordes básicos. Você até engana por um tempo, mas vai travar quando for preciso improvisar.
+Você pode resolver o mesmo problema de dez formas diferentes. Uma roda em 1 segundo, outra em 1 hora. Uma usa 10MB de memória, outra consome 10GB. Uma é fácil de manter, outra vira aquele código que ninguém quer tocar.
 
-## Mas afinal, o que é um algoritmo?
+Se você não entende essas escolhas, está programando no escuro.
 
-Um algoritmo nada mais é do que uma **sequência lógica de passos para resolver um problema**.
+Em 1936, Alan Turing formalizou tudo isso com a Máquina de Turing. Um modelo teórico simples mas poderoso: uma fita infinita, um cabeçote que lê e escreve, e regras que definem o que fazer. Qualquer problema computável poderia ser resolvido assim.
 
-Pense em uma receita de bolo:
+Foi isso que fundamentou a ciência da computação. E o conceito de algoritmo computacional: uma sequência finita de instruções, operações bem definidas, um resultado esperado.
 
-- Você tem os ingredientes (os dados de entrada)  
-- Segue os passos corretamente (o algoritmo)  
-- E no final, você tem o bolo pronto (a saída)
+Seu código, por mais complexo que seja, é isso. Uma variação da Máquina de Turing.
 
-Se você trocar a ordem dos passos ou pular algum, o bolo pode virar um desastre. O mesmo vale para um programa.
+Mas algoritmos existiam bem antes dos computadores. Al-Khwarizmi, século IX, deu origem à palavra com seus métodos para resolver equações. Euclides, 300 a.C., criou o algoritmo do máximo divisor comum que a gente ainda ensina hoje.
 
-## Por que isso importa?
+Algoritmos são ferramentas lógicas que existem desde que a humanidade resolve problemas de forma estruturada.
 
-Porque **qualquer código que você escreve é um algoritmo**. Só que nem sempre, um bom.
+Dois códigos podem ter o mesmo resultado. Mas um roda em 1 segundo, o outro em 1 hora. Se você não entende como estruturas de dados e algoritmos afetam performance, vai criar sistemas lentos sem perceber.
 
-Você pode resolver um problema de dez maneiras diferentes. Algumas vão ser mais rápidas, outras vão consumir menos memória, e outras serão um pesadelo de manter.
+Um algoritmo que funciona com dez registros pode travar com dez milhões. Saber escolher entre uma árvore binária ou uma tabela hash pode ser a diferença entre um sistema que escala e um que quebra na primeira segunda-feira de verdade.
 
-Se você não entende como essas escolhas afetam seu programa, **você está programando no escuro**.
+Frameworks mudam o tempo todo. Bibliotecas ficam obsoletas. Ferramentas viram legado em dois anos.
 
-## A Máquina de Turing: o "pai" dos computadores modernos
+Mas os conceitos por trás dos algoritmos não mudam. Se você entende como as coisas funcionam por baixo, não fica refém de tutorial. Você adapta, você resolve.
 
-Antes de mergulharmos na importância prática, é legal entender de onde veio essa ideia.
+Complexidade de algoritmos. Big O. Tempo de execução. O que significa O(1), O(n), O(log n). Estruturas de dados básicas: arrays, listas ligadas, pilhas, filas, tabelas hash. Algoritmos clássicos: busca, ordenação, recursão.
 
-Em 1936, o matemático **Alan Turing** propôs um conceito revolucionário: a **Máquina de Turing**.
+Essas são as bases.
 
-Ela era um modelo teórico, um dispositivo imaginário composto por:
+Se você só quer fazer scripts rápidos ou sites simples, talvez sobreviva sem isso. Mas se quer resolver problemas complexos, escrever código eficiente, entender sistemas grandes, e não depender só do ChatGPT toda vez que algo quebra, então sim, você precisa disso.
 
-- Uma fita infinita (como uma memória ilimitada)  
-- Um cabeçote que lê e escreve símbolos  
-- Um conjunto de regras (o algoritmo) que define o que fazer com esses símbolos
+E não para por aí. Tem os princípios da computação, hardware, sistema operacional, memória, paradigmas. Todo o cerne da computação e do software.
 
-A ideia era simples, mas poderosa: **qualquer problema computável poderia ser resolvido por essa máquina**.
+Vou falar sobre tudo isso.
 
-Isso não apenas fundamentou a ciência da computação, como também **definiu o que hoje chamamos de algoritmo computacional**:
-
-- Uma sequência finita de instruções  
-- Operações bem definidas (ler, escrever, mover, decidir)  
-- Um resultado esperado
-
-Ou seja, seu código, por mais complexo que seja, é basicamente uma variação disso.
-
-## Algoritmos antes dos computadores
-
-Apesar de Turing ter formalizado o conceito, algoritmos já existiam há séculos.
-
-- **Al-Khwarizmi (século IX):** matemático persa cujo nome deu origem à palavra "algoritmo". Ele criou métodos sistemáticos para resolver equações  
-- **Euclides (300 a.C.):** seu algoritmo para calcular o **máximo divisor comum (MDC)** ainda é ensinado hoje
-
-Ou seja, **algoritmos não são só coisa de programação**. São ferramentas lógicas que existem desde que a humanidade precisou resolver problemas de forma estruturada.
-
-## Por que algoritmos são tão importantes?
-
-### 1. Eficiência não é só "funcionar"
-
-Dois códigos podem ter o mesmo resultado. Um roda em 1 segundo, o outro em 1 hora.
-
-Se você **não entende como estruturas de dados e algoritmos afetam performance**, pode acabar criando sistemas lentos sem perceber.
-
-### 2. Escalabilidade: seu código precisa crescer
-
-Um algoritmo que funciona bem com dez registros pode travar com dez milhões.
-
-Saber escolher a estrutura certa (uma árvore binária? uma tabela hash?) **pode ser a diferença entre um sistema que escala e um que quebra**.
-
-### 3. Você para de ser apenas um copiador de códigos
-
-Framework X, biblioteca Y, ferramenta Z. Tudo muda rápido.
-
-Mas os conceitos por trás dos algoritmos, **não**.
-
-Se você entende como as coisas funcionam por baixo dos panos, você não fica refém de tutoriais. Você sabe adaptar soluções.
-
-## As bases que você precisa entender
-
-Se você quer começar — ou reforçar — seus conhecimentos em algoritmos, aqui estão os tópicos essenciais:
-
-### ✔️ Complexidade de algoritmos (Big O)
-
-- O que é tempo de execução  
-- Como medir eficiência  
-- O que significa O(1), O(n), O(log n)
-
-### ✔️ Estruturas de dados básicas
-
-- Arrays vs. listas ligadas  
-- Pilhas e filas  
-- Tabelas hash
-
-### ✔️ Algoritmos clássicos
-
-- Busca (linear vs. binária)  
-- Ordenação (bubble sort, quick sort, merge sort)  
-- Recursão
-
-## Conclusão: vale a pena aprender isso?
-
-Se você só quer fazer scripts rápidos ou sites simples, talvez até sobreviva sem se aprofundar em algoritmos.
-
-Mas se você quer:
-
-- Resolver problemas complexos  
-- Escrever código eficiente  
-- Entender sistemas grandes  
-- Não depender só do seu ChatGPT de estimação
-
-Então sim, **algoritmos e estruturas de dados são essenciais**.
-
-Além disso, é importante dominar outras bases fundamentais como:
-
-- Entender os princípios da computação  
-- Conhecimento de hardware e sistema operacional  
-- Memória  
-- Paradigmas  
-- Outros conceitos que compõem o cerne da computação e do software
-
-E sim, pretendo falar sobre tudo isso também.
-
-## O que vem a seguir
-
-Nos próximos posts, quero **aprofundar alguns algoritmos clássicos** e mostrar como eles funcionam na prática.
-
-Também vou entrar em **estruturas de dados**, com exemplos aplicáveis no dia a dia — seja em automação, web ou sistemas embarcados.
-
-Porque **algoritmo bom é aquele que resolve problema real**.
+Nos próximos posts, vou entrar em algoritmos clássicos e mostrar como funcionam na prática. Estruturas de dados com exemplos do dia a dia. Automação, web, sistemas embarcados.
