@@ -8,7 +8,7 @@ tags: [Modelos, CLP, Sistemas,Inteligência artificial, Sistemas embarcados]
 ---
 
 Tem conceito que todo programador deveria entender. Não pra ficar discutindo qual linguagem é melhor ou qual arquitetura tá na moda. Mas pra fazer projeto sério. A natureza do tempo na computação. Como isso impacta o software que você escreve. Temos o determinismo. A ideia de que você pode conhecer e garantir o pior caso e a estocasticidade. A realidade de que a maioria dos sistemas lida com probabilidades, não com certezas. Isso é engenharia pura. E como você lida com isso define a robustez do que você constrói.
-Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo estado inicial, você sempre obtém a mesma saída no mesmo tempo. Não provavelmente. Não na maioria das vezes. Mas *sempre*. Isso é contrário aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade. Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes.
+Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo estado inicial, você sempre obtém a mesma saída no mesmo tempo. Não provavelmente. Não na maioria das vezes. Mas **sempre**. Isso é contrário aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade. Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes.
 
  
   ![FUNCTION_DETERMINISM](assets/img/function_determinism.png)
