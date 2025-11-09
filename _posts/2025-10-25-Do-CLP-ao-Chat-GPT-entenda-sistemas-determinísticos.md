@@ -7,8 +7,8 @@ categories: [Sistemas, Teorias, Engenharia, Fundamentos]
 tags: [Modelos, CLP, Sistemas,Inteligência artificial, Sistemas embarcados]
 ---
 
-Tem conceito que todo programador deveria entender. Não pra ficar discutindo qual linguagem é melhor ou qual arquitetura tá na moda. Mas pra fazer projeto sério. A natureza do tempo na computação. Como isso impacta o software que você escreve. De um lado, o determinismo. A ideia de que você pode conhecer e garantir o pior caso. Do outro, a estocasticidade. A realidade de que a maioria dos sistemas lida com probabilidades, não com certezas. Isso é engenharia pura. E como você lida com isso define a robustez do que você constrói.
-Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo estado inicial, você sempre obtém a mesma saída no mesmo tempo. Não "provavelmente". Não "na maioria das vezes". Sempre. Isso se opõe aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade. Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes.
+Tem conceito que todo programador deveria entender. Não pra ficar discutindo qual linguagem é melhor ou qual arquitetura tá na moda. Mas pra fazer projeto sério. A natureza do tempo na computação. Como isso impacta o software que você escreve. Temos o determinismo. A ideia de que você pode conhecer e garantir o pior caso e a estocasticidade. A realidade de que a maioria dos sistemas lida com probabilidades, não com certezas. Isso é engenharia pura. E como você lida com isso define a robustez do que você constrói.
+Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo estado inicial, você sempre obtém a mesma saída no mesmo tempo. Não provavelmente. Não na maioria das vezes. Sempre. Isso se opõe aos sistemas estocásticos, onde o comportamento incorpora aleatoriedade. Matematicamente, é uma função pura estendida ao domínio temporal. Tanto a saída quanto o tempo são invariantes.
 
  
   ![FUNCTION_DETERMINISM](assets/img/function_determinism.png)
@@ -16,7 +16,7 @@ Um sistema determinístico é aquele onde, dadas as mesmas entradas e o mesmo es
 
   Pra garantir determinismo, você precisa de três coisas. Primeiro: o tempo de execução de qualquer operação deve ser totalmente previsível. Você precisa do pior cenário absoluto. Segundo: o sistema não pode depender de elementos imprevisíveis. Sem alocação dinâmica. Sem I/O assíncrono descontrolado. Terceiro: tarefas críticas precisam terminar dentro dos deadlines. Sem falta. Essas três garantias juntas permitem que você prove matematicamente o comportamento do sistema.
 
-Quando falamos de sistemas determinísticos, esqueça velocidade. O que importa é previsibilidade. Um sistema determinístico é aquele onde você pode afirmar com certeza: "esta operação vai terminar em, no máximo, X unidades de tempo". Ponto. Não é "geralmente termina rápido". É "o pior caso possível é conhecido e controlado". Tempo real não significa rápido. Significa previsível.
+Quando falamos de sistemas determinísticos, esqueça velocidade. O que importa é previsibilidade. Um sistema determinístico é aquele onde você pode afirmar com certeza: esta operação vai terminar em, no máximo, X unidades de tempo. Ponto. Não é geralmente termina rápido. É o pior caso possível é conhecido e controlado. Tempo real não significa rápido. Significa previsível.
 
 Pense num airbag automotivo. O cálculo de acionamento deve completar em aproximadamente 10 milissegundos após detectar a colisão. Num sistema ABS, o controle opera em ciclos de 100Hz. Atrasar significa perder controle da roda. Não existe média. Não existe "99% das vezes". É garantia absoluta. Essas aplicações exigem que você conheça o comportamento no pior cenário possível.
 
