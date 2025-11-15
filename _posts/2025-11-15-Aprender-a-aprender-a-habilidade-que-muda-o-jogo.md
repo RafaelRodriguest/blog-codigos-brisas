@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aprender a aprender: a habilidade que muda o jogo"
+title: "Aprender a aprender: A habilidade que muda o jogo"
 author: cotes
 date: 2025-11-15 15:00:00 -0300
 categories: [Carreira, reflexôes, Aprendizado]
