@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Programação é programação: Por que não existem Mundos Diferentes'
+title: 'Programação é programação: Por que não existem mundos diferentes'
 author: cotes
 date: 2025-07-18 14:20:00 -300
 categories: [Programação, Carreira]
