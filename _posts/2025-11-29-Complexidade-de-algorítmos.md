@@ -7,7 +7,6 @@ categories: [Programação, Fundamentos, algorítmos]
 tags: [complexidade de algorítmos, Big O]
 ---
 
-# Complexidade de Algoritmos
 
 No primeiro post do blog , eu dissertei um pouco sobre o conceito de algorítmos, sua importância como base fundamental no desenvolvimento de software, suas características e como eles são sequências de passos para resolver um problema, seja problema de codificação ou cozinhar, ou fazer qualquer tarefa, os algorítmos serão esses passo a passos que dada uma entrada, irá fornecer uma saída desejada. Antes de mostrar exemplos de algorítmos clássicos que serão uma porta de entrada para construção dos seus próprios algorítmos, quero falar sobre um conceito fundamental: Complexidade de algorítmos.
 
