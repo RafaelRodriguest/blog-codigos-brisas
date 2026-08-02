@@ -3,8 +3,8 @@ layout: post
 title: "Aprender a aprender: A habilidade que muda o jogo"
 author: cotes
 date: 2025-11-15 15:00:00 -0300
-categories: [Carreira, reflexôes, Aprendizado]
-tags: [Aprendizado, pŕatica deliberada, carreira, soft-skill]
+categories: [Carreira, Reflexões, Aprendizado]
+tags: [Aprendizado, prática deliberada, carreira, soft-skill]
 ---
 
 
@@ -19,7 +19,7 @@ O lado bom é que  aprender é uma habilidade, não é talento nem sorte. É pr�
 
 Prática deliberada não é só repetir, é repetir com atenção, com feedback, com ajustes. A maioria das pessoas confunde volume com qualidade, passam anos fazendo as mesmas tarefas achando que estão melhorando, mas não estão. Estão automatizando. Aprender de verdade dói, expõe suas limitações, te força a confrontar o que você não sabe. 
 
-Eu aprendi em todos as experiências que tive na vida, pessoais e profissionais, e esse acúmulo de exposições me trazem cicatrizes e marcas de guerras que vão te moldando e te transformando a ser melhor do que ontem todos os dias, não porque sou inteligente, mas porque fico melhor em aprender. Eu sei quando preciso teoria e quando preciso prática, sei identificar o que é essencial e o que é ruído, sei que desconforto é sinal de crescimento e não de fracasso. Essas coisas você só descobre aprendendo. 
+Eu aprendi em todas as experiências que tive na vida, pessoais e profissionais, e esse acúmulo de exposições me trazem cicatrizes e marcas de guerras que vão te moldando e te transformando a ser melhor do que ontem todos os dias, não porque sou inteligente, mas porque fico melhor em aprender. Eu sei quando preciso teoria e quando preciso prática, sei identificar o que é essencial e o que é ruído, sei que desconforto é sinal de crescimento e não de fracasso. Essas coisas você só descobre aprendendo. 
 
 O mundo vai continuar mudando, sempre. Novas tecnologias vão surgir, modelos de negócio vão evoluir, formas de trabalhar vão se transformar. Você não consegue se preparar pra mudanças específicas, mas consegue se preparar pra mudar, e isso significa aprender a aprender melhor. 
 

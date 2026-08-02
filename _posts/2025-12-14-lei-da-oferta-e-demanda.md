@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lei da oferta e demanda: Por que seu diploma, vale menos do que você imagina?'
+title: 'Lei da oferta e demanda: Por que seu diploma vale menos do que você imagina?'
 author: cotes
 date: 2025-12-14 00:34:00 -300
 categories: [Carreira]
@@ -9,7 +9,7 @@ tags: [Engenharia]
 
 
 
-A lei de oferta e demanda é um dos conceitos mais simples da economia, em essência ela afirma algo direto quanto maior a oferta de algo e menor a procura por isso menor será seu valor e o inverso também é verdadeiro quando algo é escasso e muito desejado seu valor sobe.
+A lei de oferta e demanda é um dos conceitos mais simples da economia, em essência ela afirma algo direto: quanto maior a oferta de algo e menor a procura por isso, menor será seu valor e o inverso também é verdadeiro quando algo é escasso e muito desejado seu valor sobe.
 
 > ![lei_oferta_e_demanda](/assets/img/oferta-e-demanda.webp)
 
@@ -27,7 +27,7 @@ Esse padrão não é novo, ele aconteceu com engenharias tradicionais, está aco
 
 ### **Fase 1: Escassez e valorização**
 
-Durante décadas, engenheiros civis, mecânicos e elétricistas foram profissionais raros, já que poucas universidades ofereciam esses cursos, a formação era longa e rigorosa, as taxas de reprovação eram altas e a demanda por infraestrutura, indústria e energia era enorme, então o mercado precisava desesperadamente desses profissionais e não havia oferta suficiente. O resultado disso foi salários elevados, status social de prestígio e a ideia cultural de que "engenheiro nunca fica desempregado", sim, não sei como é nessa nova geração, mas na minha época engenharia era profissão de prestígio, meio que como ainda é medicina hoje.
+Durante décadas, engenheiros civis, mecânicos e eletricistas foram profissionais raros, já que poucas universidades ofereciam esses cursos, a formação era longa e rigorosa, as taxas de reprovação eram altas e a demanda por infraestrutura, indústria e energia era enorme, então o mercado precisava desesperadamente desses profissionais e não havia oferta suficiente. O resultado disso foi salários elevados, status social de prestígio e a ideia cultural de que "engenheiro nunca fica desempregado", sim, não sei como é nessa nova geração, mas na minha época engenharia era profissão de prestígio, meio que como ainda é medicina hoje.
 
 ### **Fase 2: Massificação do ensino**
 
@@ -61,4 +61,4 @@ Não é uma crise específica de uma área. É oferta e demanda em ação. Não 
 
 Acredito que o diploma é importante, a minha formação superior me abriu portas e me trouxe conhecimentos valiosos,acredito que a faculdade te traz uma grade curricular bem densa que é necessária pra te trazer uma base sólida que será útil em toda sua carreira, além de agregação em outras áreas da vida, como o networking, por exemplo, porém não é garantia de sucesso, o diploma funcionou por um período como filtro eficiente de escassez em um período onde poucas pessoas tinham acesso ao ensino superior, quando esse filtro enfraquece porque milhões de pessoas possuem diplomas semelhantes, o mercado naturalmente cria novos critérios de seleção como experiência prática e capacidade real de execução, além de diversas outras habilidades que compõem um bom profissional, e isso inserido em um contexto de aquecimento de mercado ou não da área que são refletidos também nessa equação.
 
-Então pare de reclamar que se formou e não tem emprego, pois te venderam uma ilusão a vida toda achando que apenas um pedaço de papel seria suficiente, voce precisa entender como funcionam as leis e dinâmicas do mercado e se adeque a elas e ganhe vantagem competitiva. Ao invés de reclamar, busque ser um PROFISSIONAL FODA, busque ser o melhor e mais raro, nenhuma crise mercadológica ou ciclos de mercados irá parar de contratar excelentes profissionais. Em engenharia, tecnologia ou qualquer área, diploma é importante, porém não garante nada, competência rara garante.
+Então pare de reclamar que se formou e não tem emprego, pois te venderam uma ilusão a vida toda achando que apenas um pedaço de papel seria suficiente, você precisa entender como funcionam as leis e dinâmicas do mercado e se adeque a elas e ganhe vantagem competitiva. Ao invés de reclamar, busque ser um PROFISSIONAL FODA, busque ser o melhor e mais raro, nenhuma crise mercadológica ou ciclos de mercados irá parar de contratar excelentes profissionais. Em engenharia, tecnologia ou qualquer área, diploma é importante, porém não garante nada, competência rara garante.

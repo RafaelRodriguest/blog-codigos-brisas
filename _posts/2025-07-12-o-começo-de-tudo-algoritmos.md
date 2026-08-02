@@ -24,11 +24,12 @@ Seu código, por mais complexo que seja, é isso. Uma variação da Máquina de 
 
 Mas algoritmos existiam bem antes dos computadores. Al-Khwarizmi, século IX, deu origem à palavra com seus métodos para resolver equações. Euclides, 300 a.C., criou o algoritmo do máximo divisor comum que a gente ainda ensina hoje.
 Algoritmos são ferramentas lógicas que existem desde que a humanidade resolve problemas de forma estruturada.
-Dois códigos podem ter o mesmo resultado mas um roda em 1 segundo, o outro em 1 hora mas se você não entende como estruturas de dados e algoritmos afetam performance, vai criar sistemas lentos sem perceber.
+Dois códigos podem ter o mesmo resultado, mas um roda em 1 segundo e o outro em 1 hora. Se você não entende como estruturas de dados e algoritmos afetam performance, vai criar sistemas lentos sem perceber.
 Um algoritmo que funciona com dez registros pode travar com dez milhões. Saber escolher entre uma árvore binária ou uma tabela hash pode ser a diferença entre um sistema que escala e um que quebra na primeira segunda-feira de verdade.
 
-Frameworks mudam o tempo todo, bibliotecas ficam obsoletas,ferramentas viram legado em dois anos, mas os conceitos por trás dos algoritmos não mudam. Se você entende como as coisas funcionam por baixo, não fica refém de tutorial. Você adapta e você resolve. Logo, eu considero importante saber
-Complexidade de algoritmos. Big O. Tempo de execução. O que significa O(1), O(n), O(log n). Estruturas de dados básicas: arrays, listas ligadas, pilhas, filas, tabelas hash. Algoritmos clássicos: busca, ordenação, recursão.
+Frameworks mudam o tempo todo, bibliotecas ficam obsoletas, ferramentas viram legado em dois anos, mas os conceitos por trás dos algoritmos não mudam. Se você entende como as coisas funcionam por baixo, não fica refém de tutorial. Você adapta e você resolve.
+
+Por isso, considero fundamental saber sobre complexidade de algoritmos. Big O. Tempo de execução. O que significa O(1), O(n), O(log n). Estruturas de dados básicas: arrays, listas ligadas, pilhas, filas, tabelas hash. Algoritmos clássicos: busca, ordenação, recursão.
 Essas são as bases.
 
 Se você só quer fazer scripts rápidos ou sites simples, talvez sobreviva sem isso. Mas se quer resolver problemas complexos, escrever código eficiente, entender sistemas grandes, e não depender só do ChatGPT toda vez que algo quebra, então sim, você precisa disso.

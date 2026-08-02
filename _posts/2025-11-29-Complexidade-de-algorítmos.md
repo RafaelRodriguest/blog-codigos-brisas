@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Complexidade de Algorítmos'
+title: 'Complexidade de Algoritmos'
 author: cotes
 date: 2025-11-29 00:34:00 -300
-categories: [Programação, Fundamentos, algorítmos]
-tags: [complexidade de algorítmos, Big O]
+categories: [Programação, Fundamentos, algoritmos]
+tags: [complexidade de algoritmos, Big O]
 ---
 
 
-No primeiro post do blog , eu dissertei um pouco sobre o conceito de algorítmos, sua importância como base fundamental no desenvolvimento de software, suas características e como eles são sequências de passos para resolver um problema, seja problema de codificação ou cozinhar, ou fazer qualquer tarefa, os algorítmos serão esses passo a passos que dada uma entrada, irá fornecer uma saída desejada. Antes de mostrar exemplos de algorítmos clássicos que serão uma porta de entrada para construção dos seus próprios algorítmos, quero falar sobre um conceito fundamental: Complexidade de algorítmos.
+No primeiro post do blog, eu dissertei um pouco sobre o conceito de algoritmos, sua importância como base fundamental no desenvolvimento de software, suas características e como eles são sequências de passos para resolver um problema, seja problema de codificação ou cozinhar, ou fazer qualquer tarefa, os algoritmos serão esses passo a passos que dada uma entrada, irá fornecer uma saída desejada. Antes de mostrar exemplos de algoritmos clássicos que serão uma porta de entrada para construção dos seus próprios algoritmos, quero falar sobre um conceito fundamental: Complexidade de algoritmos.
 
 Quando começamos a programar, nosso foco geralmente está em "fazer funcionar", e está tudo bem, acredito que essa seja a maneira correta de começar qualquer código, depois inserimos camadas de fatoração e otimização, mas maturar isso acredito que seja fundamental, ou seja, escrever um código que funciona não é o suficiente, ele precisa ser eficiente, previsível e escalável e adicionaria também manutenível.
 
@@ -77,7 +77,7 @@ Comum em algoritmos de ordenação eficientes como Merge Sort e Quick Sort. É m
 
 ### O(n²) - Complexidade Quadrática
 
-O tempo cresce exponencialmente com o quadrado da entrada. Loops aninhados geralmente indicam essa complexidade.
+O tempo cresce de forma quadrática com o tamanho da entrada. Loops aninhados geralmente indicam essa complexidade.
 ```ruby
 def bubble_sort(lista)
   n = lista.length
@@ -98,10 +98,10 @@ Extremamente ineficiente para entradas grandes. Comum em soluções recursivas i
 
 ## Complexidade de Espaço
 
-Existe também enquanto a complexidade de espaço que mede quanta memória adicional o algoritmo precisa. Um algoritmo pode ser rápido **O(n)** mas usar muita memória **O(n)**, ou pode ser mais lento **O(n²)** mas usar pouca memória **O(1)**. Essa é o famoso **trade-off entre tempo e espaço**. Um algoritmo pode ser mais rápido porque usa mais memória (como uma tabela de cache), ou pode ser mais econômico em memória mas levar mais tempo para executar.
+Existe também a complexidade de espaço que mede quanta memória adicional o algoritmo precisa. Um algoritmo pode ser rápido **O(n)** mas usar muita memória **O(n)**, ou pode ser mais lento **O(n²)** mas usar pouca memória **O(1)**. Essa é o famoso **trade-off entre tempo e espaço**. Um algoritmo pode ser mais rápido porque usa mais memória (como uma tabela de cache), ou pode ser mais econômico em memória mas levar mais tempo para executar.
 
 
-Ótimo, entendemos o que são, onde comem e onde dormem complexidade de tempo e espaço de algorítmos, sabemos que temos hoje temos processadores multicore, SSDs rápidos e GPUs capazes de trilhões de operações por segundo que permitem rodar algoritmos antes considerados lentos, mesmo assim, complexidade é um assunto de fundamento importante, mas é preciso entender caso a caso, e ter um pensamento crítico de um bom engenheiro de software, a primeira coisa é saber usar algorítmos eficientes quando necessário sistemas que precisam de um pouco maior de volume ou alta concorrência, para a maioria dos outros casos menores uma solução simples e clara pode ser mais importante do que otimizar Big-O, então não complicar demais prematuramente é uma lição que você deve usar a vida toda para ser um bom programador, antes de tentar otimizar meça tudo, tenha dados concretos e específicos para uma boa otimização, e entender o cenário real do que tentar implementar algo só porque é bonito ou teoricamente mais otimizado.
+Ótimo, entendemos o que são, onde comem e onde dormem complexidade de tempo e espaço de algoritmos, sabemos que hoje temos processadores multicore, SSDs rápidos e GPUs capazes de trilhões de operações por segundo que permitem rodar algoritmos antes considerados lentos, mesmo assim, complexidade é um assunto de fundamento importante, mas é preciso entender caso a caso, e ter um pensamento crítico de um bom engenheiro de software, a primeira coisa é saber usar algoritmos eficientes quando necessário sistemas que precisam de um pouco maior de volume ou alta concorrência, para a maioria dos outros casos menores uma solução simples e clara pode ser mais importante do que otimizar Big-O, então não complicar demais prematuramente é uma lição que você deve usar a vida toda para ser um bom programador, antes de tentar otimizar meça tudo, tenha dados concretos e específicos para uma boa otimização, e entender o cenário real do que tentar implementar algo só porque é bonito ou teoricamente mais otimizado.
 
 
 Na minha concepção um bom programador toma boas decisões conscientes que impactam diretamente na complexidade do código, como: Usar estruturas de dados apropriadas: hash tables para buscas **O(1)**, árvores balanceadas para **O(log n)** , Saber usar memoização e programação dinâmica para trabalhos repetidos ou Dividir para conquistar quando necessário para quebrar problemas em subproblemas menores.

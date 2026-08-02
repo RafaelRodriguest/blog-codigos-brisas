@@ -98,7 +98,7 @@ Porém, instalei outros temas bem bonitos disponíveis em: [https://github.com/t
 ![Omarchy](/assets/img/omarchy-theme3.png)
 
 
-A experiência do omarchy é bacana , a filosofia “omakase” de DHH oferece uma experiência polida e opinativa, pronta para uso e focada em desenvolvedores.
+A experiência do Omarchy é bacana, a filosofia “omakase” de DHH oferece uma experiência polida e opinativa, pronta para uso e focada em desenvolvedores.
 E, na prática, a primeira impressão não desaponta. A produtividade é imediata, graças a um setup pré-configurado e centrado no teclado que elimina distrações.
 A performance é notável, com a fluidez do Hyprland garantindo uma experiência rápida e visualmente agradável.
 
@@ -110,11 +110,11 @@ No entanto, a jornada com o Omarchy também tem desafios especialmente para quem
 Os problemas com compartilhamento de tela em aplicativos de videoconferência foram um dos primeiros obstáculos pra mim.
 A configuração de múltiplos monitores também apresentou peculiaridades, exigindo ajustes manuais e quebrando o fluxo de trabalho ocasionalmente.
 Tive que fazer algumas pesquisas para acertar a configuração mais adequada para o meu segundo monitor.
-Outra questão foi o Wi-Fi, que não se conectava automaticamente, e, às vezes, o tema configurado do Omarchy não aparecia, surgindo apenas após o comando `hyprctl reload`. Depois resolvi alguns problemas como esses depois que instalei a versão 2.0 com a ISO oficial.
+Outra questão foi o Wi-Fi, que não se conectava automaticamente, e, às vezes, o tema configurado do Omarchy não aparecia, surgindo apenas após o comando `hyprctl reload`. Esses problemas foram resolvidos após instalar a versão 2.0 com a ISO oficial.
 
 A curva de aprendizado inicial que é focada no uso intensivo do teclado e na lógica do gerenciador de janelas em mosaico pode ser um pouco intimidante.
 E, para quem precisa de dual boot, a instalação via ISO, que impõe a criptografia de disco, pode ser um obstáculo.
-Por fim, a compatibilidade com alguns aplicativos e a base comunitária ainda menor que outras distros levantam questões sobre suporte a longo prazo, embora eu tenha achado impressionante a instabilidade de um sistema relativamente bem novo.
+Por fim, a compatibilidade com alguns aplicativos e a base comunitária ainda menor que outras distros levantam questões sobre suporte a longo prazo, embora eu tenha achado impressionante a estabilidade de um sistema relativamente novo.
 
 Em resumo, o Omarchy é uma excelente opção para desenvolvedores que valorizam produtividade e estética, mas é importante estar ciente dos desafios na transição.
 Ele oferece um ambiente de trabalho rápido, funcional e elegante, mas exige adaptação e paciência para superar as peculiaridades do Linux moderno. você pode instalá-lo em uma VM só para testar e, se gostar, migrar para seu setup principal, assim como eu fiz.

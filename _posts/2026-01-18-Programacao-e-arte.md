@@ -25,20 +25,20 @@ Um código bem escrito comunica. Ele diz o que está acontecendo, por que está 
 
 Quando você olha para figuras como John Carmack, programador do Doom, fica evidente esse aspecto artístico. Não no sentido estético superficial, mas na forma como ele lidava com limitações técnicas, abstrações matemáticas e performance extrema. O código era uma forma de expressão técnica: uma maneira muito particular de resolver problemas complexos com elegância e eficiência.
 
-![John Carmack](assets/img/john.jpeg)
-*John Carmack, e equipe de desenvolvimento do jogo DOOM.*
+![John Carmack](/assets/img/john.jpeg)
+*John Carmack e a equipe de desenvolvimento do jogo DOOM.*
 
 Linus Torvalds criou o Linux não apenas como um sistema operacional funcional, mas como uma expressão de como software deveria ser feito. A filosofia por trás do kernel Linux reflete a visão de Torvalds sobre design de sistemas, sobre simplicidade, sobre fazer as coisas do jeito certo mesmo quando é mais difícil. O estilo dele é pragmático, direto, sem firulas, mas conseguimos ver arte nessa clareza de propósito.
 
 
-![Linus Torvalds](assets/img/linus.jpeg)
+![Linus Torvalds](/assets/img/linus.jpeg)
 *Linus Torvalds - criador do Linux e Git.*
 
 
 E então tem Why the Lucky Stiff, da comunidade Ruby, que levou a programação como arte ao extremo. Why criava código que era deliberadamente poético, escrevia tutoriais em forma de histórias ilustradas, misturava programação com música e arte visual. Para ele, Ruby não era só uma ferramenta para resolver problemas, era um meio de expressão artística. Ele mostrou que código pode ser lúdico, experimental, que pode comunicar personalidade e emoção.
 
 
-![Why](assets/img/why.jpeg)
+![Why](/assets/img/why.jpeg)
 *Why - Lucky Stiff - Cartunista, artista e programador, famoso na comunidade Ruby.*
 
 Assim como na música, programação exige abstração. Você não pensa em cada nota isoladamente quando toca uma música inteira, você pensa em frases, seções, tensão e resolução. Da mesma forma, um bom programador pensa também em termos de modelos mentais, responsabilidades, fluxos e limites. Bons sistemas também são frutos de boas abstrações.
