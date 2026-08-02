@@ -7,13 +7,13 @@ categories: [Setup, Linux]
 tags: [Linux, Omarchy,Setup,Minimalismo]
 ---
 
-## O Omarchy e sua filosofia
+## **O Omarchy e sua filosofia**
 
 O Omarchy é uma configuração de ambiente de desktop para o sistema operacional Linux, criada por David Heinemeier Hansson (DHH), o criador do framework Ruby on Rails e cofundador da empresa 37signals.
 Ele não é uma distribuição Linux totalmente nova, mas sim uma instalação opinativa baseada no Arch Linux, que utiliza o gerenciador de janelas em mosaico Hyprland.
 
 ![Omarchy](/assets/img/omarchy1.png)
-### História
+### **História**
 
 O Omarchy evoluiu de um projeto anterior de DHH chamado Omakub, que era um conjunto de scripts para personalizar o Ubuntu para desenvolvimento no qual usei bastante quando utilizava o Ubuntu o que facilitava muito, pois vinha com muitas ferramentas de desenvolvimento pré-instaladas.
 
@@ -34,17 +34,17 @@ O Omarchy vem com o Hyprland, que é um gerenciador de janelas focado em organiz
 
 No Omarchy, o Hyprland vem todo pré-configurado, o que facilita bastante. E, se você quiser fazer alguma alteração, há o arquivo `~/.config/hypr/hyprland.conf`, onde é possível personalizar suas configurações de acordo com suas necessidades. Depois, é só dar o comando `hyprctl reload` para recarregar as configurações realizadas. Tive que fazer algumas modificações nesse arquivo para adaptar configurações do meu segundo monitor.
 
-### Filosofia
+### **Filosofia**
 
 A filosofia do Omarchy é centrada em alguns pilares principais:
 
-#### Opinativo (Opinionated)
+#### **Opinativo (Opinionated)**
 
 O Omarchy não busca ser uma tela em branco para o usuário configurar do zero. Em vez disso, ele oferece um conjunto de configurações e ferramentas pré-selecionadas por DHH, que ele considera ideais para uma experiência de desenvolvimento moderna e produtiva.
 O objetivo é reduzir a “anarquia” de escolhas infinitas, oferecendo um caminho pavimentado (“omakase”, que significa “escolha do chef”, em japonês).
 Muita gente gosta, e muita gente não gosta das escolhas de DHH é daí que vem a beleza do Linux: você pode mudar e colocar do seu jeito.
 
-#### Minimalista e orientado ao teclado
+#### **Minimalista e orientado ao teclado**
 
 O design é focado na produtividade e na velocidade, priorizando o uso do teclado em vez do mouse. A interface é limpa, sem ícones na área de trabalho ou dock, e todas as ações como abrir programas, alternar janelas e gerenciar o sistema  são todos controladas por atalhos de teclado.
 Essa será uma das principais mudanças para quem não é acostumado a navegar apenas com o teclado. No começo causa estranheza, mas, pelo menos para mim, trouxe velocidade e produtividade para abrir e fechar ambientes de trabalho.
@@ -57,12 +57,12 @@ Por exemplo:
 
 DHH preparou um manual muito bem detalhado, com aquele formato minimalista que é a cara dele, onde você encontra isso e muito mais sobre o Omarchy: [https://learn.omacom.io/2/the-omarchy-manual](https://learn.omacom.io/2/the-omarchy-manual)
 
-#### Estética e produtividade
+#### **Estética e produtividade**
 
 A filosofia de DHH é que “um sistema bonito é um sistema motivador”, o que vai de encontro ao que ele evangeliza no Ruby on Rails e em seus keynotes mundo afora.
 O Omarchy traz consigo uma estética visual polida, utilizando temas e configurações que o diferenciam de outros sistemas e o tornam agradável de usar.
 
-### Instalação
+### **Instalação**
 
 Para instalar o Omarchy, existe um método principal simplificado e opções mais avançadas para usuários experientes.
 O processo, que antes era uma série de scripts para personalizar uma instalação existente do Arch, evoluiu recentemente para uma instalação por meio de uma ISO dedicada, especialmente a partir da versão 2.0.
@@ -72,13 +72,13 @@ Depois de dominar, pode optar pelo `archinstall`, onde basta digitar o comando `
 
 Existem duas maneiras principais de instalar o Omarchy:
 
-#### 1. Instalação simplificada via ISO (recomendado)
+#### **1. Instalação simplificada via ISO (recomendado)**
 
 *  Baixe a ISO no site oficial e grave-a em um pendrive usando o balenaEtcher (ou Rufus no Windows).
 *  Dê boot pelo pendrive e siga o instalador guiado. O processo é rápido, levando entre 2 e 5 minutos, dependendo da velocidade do computador.
 *  O instalador faz a maior parte do trabalho, incluindo o particionamento do disco (com criptografia total obrigatória) e a instalação do ambiente de desktop completo e das ferramentas opinativas.
 
-#### 2. Instalação manual (avançado)
+#### **2. Instalação manual (avançado)**
 
 * Comece com a ISO padrão do Arch Linux, faça a instalação manual (ou use o `archinstall`) e depois execute o script fornecido pelo Omarchy para configurar o ambiente e instalar os pacotes.
 

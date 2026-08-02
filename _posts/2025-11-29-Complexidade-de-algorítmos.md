@@ -16,7 +16,7 @@ Quem estudou ciências da computação visitou os conceitos de complexidade de a
 
 Pense **n** como o número de elementos com os quais seu algoritmo trabalha: usuários em um banco de dados, pixels em uma imagem, posts em uma rede social, etc. Logo, o objetivo principal da análise de complexidade é prever o comportamento de um algoritmo para entradas muito grandes, sem precisar implementá-lo e testá-lo fisicamente. É uma análise do pior cenário possível.
 
-## A Notação Big O
+## **A Notação Big O**
 
 A ferramenta mais comum para expressar complexidade é a Notação Big O. Ela descreve o pior cenário de crescimento de um algoritmo quando a entrada tende ao infinito. Ela nos dá uma abstração de como o tempo de execução ou o uso de memória cresce em relação ao tamanho da entrada **n**.
 
@@ -26,7 +26,7 @@ Vamos explorar as complexidades mais comuns, da mais eficiente para a menos efic
 
 ![Notação Big O](/assets/img/bigonotation.jpeg)
 
-### O(1) - Tempo Constante
+### **O(1) — Tempo Constante**
 
 O tempo de execução é constante, independentemente do tamanho da entrada.
 ```ruby
@@ -35,7 +35,7 @@ def get_first_element(items)
 end
 ```
 
-### O(log n) - Complexidade Logarítmica
+### **O(log n) — Complexidade Logarítmica**
 
 O tempo cresce logaritmicamente, é extremamente eficiente. O tempo de execução cresce muito lentamente mesmo com **n** crescendo drasticamente. A busca binária é o exemplo clássico: a cada iteração, dividimos o problema pela metade.
 ```ruby
@@ -58,7 +58,7 @@ def busca_binaria(lista_ordenada, alvo)
 end
 ```
 
-### O(n) - Tempo Linear
+### **O(n) — Tempo Linear**
 
 O tempo de execução cresce proporcionalmente ao tamanho da entrada. Percorrer todos os elementos de uma lista é **O(n)**.
 ```ruby
@@ -71,11 +71,11 @@ def encontrar_maximo(lista)
 end
 ```
 
-### O(n log n) - Complexidade Linearítmica
+### **O(n log n) — Complexidade Linearítmica**
 
 Comum em algoritmos de ordenação eficientes como Merge Sort e Quick Sort. É mais rápido que **O(n²)** mas mais lento que **O(n)**.
 
-### O(n²) - Complexidade Quadrática
+### **O(n²) — Complexidade Quadrática**
 
 O tempo cresce de forma quadrática com o tamanho da entrada. Loops aninhados geralmente indicam essa complexidade.
 ```ruby
@@ -92,11 +92,11 @@ def bubble_sort(lista)
 end
 ```
 
-### O(2ⁿ) - Complexidade Exponencial
+### **O(2ⁿ) — Complexidade Exponencial**
 
 Extremamente ineficiente para entradas grandes. Comum em soluções recursivas ingênuas, como calcular Fibonacci sem memoização.
 
-## Complexidade de Espaço
+## **Complexidade de Espaço**
 
 Existe também a complexidade de espaço que mede quanta memória adicional o algoritmo precisa. Um algoritmo pode ser rápido **O(n)** mas usar muita memória **O(n)**, ou pode ser mais lento **O(n²)** mas usar pouca memória **O(1)**. Essa é o famoso **trade-off entre tempo e espaço**. Um algoritmo pode ser mais rápido porque usa mais memória (como uma tabela de cache), ou pode ser mais econômico em memória mas levar mais tempo para executar.
 
