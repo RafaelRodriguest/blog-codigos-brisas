@@ -5,9 +5,6 @@ author: cotes
 date: 2026-08-15 11:00:00 -0300
 categories: [Setup, Linux]
 tags: [omarchy, hyprland, quickshell, linux, ia]
-image:
-  path: /assets/img/update-omarchy-quattro/dhh-quattro-video.jpg
-  alt: DHH apresentando o Omarchy Quattro
 ---
 
 Alguns meses atrás escrevi aqui sobre minhas primeiras impressões com o Omarchy, quando ainda estava na versão 2.0 e eu migrava de vez pro Arch depois de anos pulando entre Ubuntu, Mint e WSL2. Na época o sistema já me convenceu pela produtividade imediata e pela estética limpa, mesmo com as peculiaridades de sempre do Linux moderno.
