@@ -53,7 +53,7 @@ Tabelas hash são provavelmente a estrutura mais útil que existe. Você pega um
 
 É por isso que objetos em JavaScript, dicionários em Python, e hashmaps em Java são tão rápidos. Por baixo dos panos, são tabelas hash. O problema são as colisões: às vezes duas chaves diferentes geram o mesmo índice. Você resolve com uma lista em cada posição ou procurando a próxima posição livre.
 
-Heaps são árvores especiais onde o pai é sempre maior (ou menor) que os filhos. Isso garante que o maior (ou menor) elemento está sempre no topo. Perfeito pra fila de prioridade. Algoritmos de roteamento, escalonadores de sistema operacional, aquele algoritmo do Dijkstra que você viu na faculdade — todos usam heaps.
+Heaps são árvores especiais onde o pai é sempre maior (ou menor) que os filhos. Isso garante que o maior (ou menor) elemento está sempre no topo. Perfeito pra fila de prioridade. Algoritmos de roteamento, escalonadores de sistema operacional, aquele algoritmo do Dijkstra que você viu na faculdade, todos usam heaps.
 
 Tries são árvores pra texto. Cada nó representa uma letra. Você percorre letra por letra. Pra saber se "casa" existe no dicionário, vai em c, depois a, depois s, depois a. Autocomplete do seu celular usa trie. Corretor ortográfico usa trie. Sistema de roteamento de URLs usa trie.
 

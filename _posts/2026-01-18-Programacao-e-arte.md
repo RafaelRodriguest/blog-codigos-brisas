@@ -17,15 +17,15 @@ Quando falo em linguagem, não falo no sentido romântico, mas linguagem no sent
 
 Já um João Bosco tem um estilo que flerta com a essência do samba, MPB e Jazz, sua música tem um grande apelo rítmico e levadas que trazem coisas do partido alto com elementos do Jazz. E se fossemos falar de um Iron Maiden, que é um símbolo do metal mundial, ele traz consigo camadas e dobras de guitarras bem particulares, assim como letras com temáticas históricas.
 
-Poderia citar muitos outros exemplos — Beatles, Jimi Hendrix, Pink Floyd, Tom Jobim, Stevie Wonder, Mozart. A lista é longa. Mas o ponto é o seguinte: cada um desses artistas carrega um contexto histórico e acúmulo de referências, assim como uma gramática própria. Cada um tem seu vocabulário, suas regras implícitas, suas quebras de regra e seus padrões recorrentes.
+Poderia citar muitos outros exemplos: Beatles, Jimi Hendrix, Pink Floyd, Tom Jobim, Stevie Wonder, Mozart. A lista é longa. Mas o ponto é o seguinte: cada um desses artistas carrega um contexto histórico e acúmulo de referências, assim como uma gramática própria. Cada um tem seu vocabulário, suas regras implícitas, suas quebras de regra e seus padrões recorrentes.
 
 ![BB.king](/assets/img/bb-king.jpg)
 
 A arte musical é uma habilidade prática. Você estuda teoria, aprende escalas, domina o campo harmônico, aprende técnicas, mas o domínio vem de fato com a vivência. A linguagem só entra de verdade quando você pratica.
 
-Isso é facilmente observável quando vemos um gringo tentando tocar samba: por mais que ele conheça bastante de música, não fica igual ao de um brasileiro que tem um nível de imersão no estilo bem superior. Isso me lembra também a história de quando o lendário guitarrista Steve Vai foi tocar com a banda brasileira Sepultura no Rock in Rio USA, em Las Vegas. Segundo relatos dos integrantes da banda, ele teve dificuldade em tocar o riff da música "Roots Bloody Roots", que é um groove que emula elementos de percussão brasileira e do berimbau da capoeira. O que não tira em nada a capacidade do virtuoso guitarrista que é o Steve Vai — só mostra que ele não tem a vivência de um brasileiro nativo.
+Isso é facilmente observável quando vemos um gringo tentando tocar samba: por mais que ele conheça bastante de música, não fica igual ao de um brasileiro que tem um nível de imersão no estilo bem superior. Isso me lembra também a história de quando o lendário guitarrista Steve Vai foi tocar com a banda brasileira Sepultura no Rock in Rio USA, em Las Vegas. Segundo relatos dos integrantes da banda, ele teve dificuldade em tocar o riff da música "Roots Bloody Roots", que é um groove que emula elementos de percussão brasileira e do berimbau da capoeira. O que não tira em nada a capacidade do virtuoso guitarrista que é o Steve Vai, só mostra que ele não tem a vivência de um brasileiro nativo.
 
-Quando você toca, erra, observa e ajusta; quando você percebe as nuances, dinâmica, intenção, silêncio, timing — essa habilidade é construída com prática deliberada, método e um nível crescente de abstração e percepção. Quanto mais você domina a linguagem, mais fica livre pra se expressar dentro dela, de forma automática, sem pensar.
+Quando você toca, erra, observa e ajusta; quando você percebe as nuances, dinâmica, intenção, silêncio, timing, essa habilidade é construída com prática deliberada, método e um nível crescente de abstração e percepção. Quanto mais você domina a linguagem, mais fica livre pra se expressar dentro dela, de forma automática, sem pensar.
 
 ## **Programação como linguagem**
 
@@ -54,10 +54,10 @@ E então tem Why the Lucky Stiff, da comunidade Ruby, que levou a programação 
 
 ## **Abstração: o elo entre música e código**
 
-Assim como na música, programação exige abstração. Você não pensa em cada nota isoladamente quando toca uma música inteira — você pensa em frases, seções, tensão e resolução. Da mesma forma, um bom programador pensa em termos de modelos mentais, responsabilidades, fluxos e limites. Bons sistemas também são frutos de boas abstrações.
+Assim como na música, programação exige abstração. Você não pensa em cada nota isoladamente quando toca uma música inteira, você pensa em frases, seções, tensão e resolução. Da mesma forma, um bom programador pensa em termos de modelos mentais, responsabilidades, fluxos e limites. Bons sistemas também são frutos de boas abstrações.
 
 No fim, a pergunta "programação é arte?" talvez esteja mal formulada. A questão não é se todo código é arte, assim como nem toda música é arte no sentido mais profundo. A questão é que tanto a música quanto a programação são linguagens que permitem expressão. Ambas exigem prática, método, técnica e abstração. Ambas evoluem com o tempo e com a experiência. E ambas refletem quem as pratica.
 
 Para mim, que vivi a música antes da programação, o paralelo é inevitável. Eu consigo enxergar o mesmo processo mental: aprender a linguagem, praticar até internalizar, abstrair para se expressar melhor. Em ambos os casos, isso é essencialmente o mesmo.
 
-E talvez seja exatamente aí que mora a arte.
+E talvez seja exatamente aí que a arte apareça.

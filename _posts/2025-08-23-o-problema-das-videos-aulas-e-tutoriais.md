@@ -29,7 +29,7 @@ Na vida real, nós sabemos que é o oposto completo: quase nada dá certo de pri
 
 Há um certo pavor em abrir a documentação oficial de uma tecnologia. Elas podem ser densas, às vezes mal organizadas, e quase sempre exigem um nível de paciência e concentração que um vídeo de 10 minutos não exige. É mais cômodo que alguém mastigue a informação para nós.
 
-Mas é exatamente aí que mora o diferencial. E digo isso com a convicção de quem começou a jornada muito antes do YouTube ser a fonte principal de aprendizado. Lembro-me de quando fazia meu curso técnico, ia à biblioteca e pegava um livro gigante de circuitos elétricos. Na época, era sofrido. Eu não entendia metade das coisas de primeira, me perdia nas fórmulas e tinha que reler páginas inteiras. Hoje, olho para trás e vejo o valor inestimável daquilo: aquela dificuldade me forçou a desenvolver paciência, interpretação de texto e uma capacidade de abstração que um tutorial rápido jamais seria capaz de proporcionar.
+Mas é exatamente aí que está o diferencial. E digo isso com a convicção de quem começou a jornada muito antes do YouTube ser a fonte principal de aprendizado. Lembro-me de quando fazia meu curso técnico, ia à biblioteca e pegava um livro gigante de circuitos elétricos. Na época, era sofrido. Eu não entendia metade das coisas de primeira, me perdia nas fórmulas e tinha que reler páginas inteiras. Hoje, olho para trás e vejo o valor inestimável daquilo: aquela dificuldade me forçou a desenvolver paciência, interpretação de texto e uma capacidade de abstração que um tutorial rápido jamais seria capaz de proporcionar.
 
 Aprender a ler documentação é como aprender a pescar em vez de apenas receber o peixe. É na documentação que você encontra a verdade absoluta: ela é escrita pelos criadores da tecnologia. Tutoriais e vídeos são interpretações de terceiros. Enquanto um vídeo mostra apenas 3 formas de usar uma função, a documentação lista todas as 15, com seus parâmetros obscuros e extremamente poderosos. O seu problema específico, aquele que ninguém no fórum ou no YouTube teve, quase certamente está detalhado em alguma seção obscura da docs.
 
@@ -43,13 +43,9 @@ A leitura profunda força seu cérebro a criar modelos mentais, a conectar conce
 
 ## **Uma abordagem mais equilibrada**
 
-Isso não significa que você deve jogar fora sua conta da plataforma de vídeos. A chave é a diversificação de fontes:
+Isso não significa que você deve jogar fora sua conta da plataforma de vídeos. A chave é a diversificação de fontes.
 
-- **Comece com vídeo** para ter uma visão geral e se familiarizar com a sintaxe e o fluxo de trabalho.
-- **Consulte a documentação simultaneamente**: para cada tópico abordado no vídeo, abra a documentação. Leia a seção correspondente. Veja o que o instrutor omitiu.
-- **Pratique criando, não replicando**: em vez de copiar o código do vídeo, tente criar algo novo com o mesmo conceito. É no erro que você será forçado a consultar a docs.
-- **Aprofunde-se com leitura**: para temas fundamentais — HTTP, bancos de dados, estruturas de dados, padrões de projeto — invista em livros consagrados e artigos técnicos de qualidade.
-- **Ensine**: a melhor maneira de solidificar o conhecimento é tentar explicá-lo. Escreva um post, faça um resumo, grave um áudio explicando para você mesmo.
+Comece com vídeo para ter uma visão geral e se familiarizar com a sintaxe e o fluxo de trabalho. Depois consulte a documentação simultaneamente: para cada tópico abordado no vídeo, abra a documentação, leia a seção correspondente, veja o que o instrutor omitiu. Pratique criando, não replicando, em vez de copiar o código do vídeo, tente criar algo novo com o mesmo conceito, é no erro que você será forçado a consultar a docs. Aprofunde-se com leitura: para temas fundamentais, HTTP, bancos de dados, estruturas de dados, padrões de projeto, invista em livros consagrados e artigos técnicos de qualidade. E ensine: a melhor maneira de solidificar o conhecimento é tentar explicá-lo, escreva um post, faça um resumo, grave um áudio explicando para você mesmo.
 
 O autodidatismo moderno vai muito além de conseguir terminar um curso online. O verdadeiro autodidata é aquele que não tem medo da documentação, que se aventura em livros pesados e que encara a frustração de não entender algo como um desafio a ser vencido, não como um sinal para desistir e procurar um tutorial.
 

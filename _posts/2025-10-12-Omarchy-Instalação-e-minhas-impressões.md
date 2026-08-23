@@ -25,7 +25,7 @@ Porém, sempre ouvi falar da maturidade e filosofia do Arch Linux, principalment
 
 Além disso, o Arch Linux possui uma comunidade fantástica e o ArchWiki, que é praticamente uma bíblia: se você tiver alguma dúvida ou problema no Arch, provavelmente a solução estará lá.
 
-Fiquei com aquele gostinho de querer usar no meu setup principal. Foi então que, em 2025, foi lançada a versão 2.0 do Omarchy, marcando uma evolução significativa do projeto, que passou de um conjunto de scripts de pós instalação para uma ISO completa, com repositório de pacotes e uma comunidade crescente de entusiastas.
+Fiquei com aquele gostinho de querer usar no meu setup principal. Foi então que, em 2025, foi lançada a versão 2.0 do Omarchy, que passou de um conjunto de scripts de pós instalação para uma ISO completa, com repositório de pacotes e uma comunidade crescente de entusiastas.
 
 O Omarchy vem com o Hyprland, que é um gerenciador de janelas focado em organizar janelas automaticamente em um layout de mosaico (“tiling”) sem sobreposição. Foi a minha primeira experiência usando esse tipo de sistema, o que me agradou bastante, pois consigo abrir várias telas nesse formato e trabalhar em tarefas paralelas ao mesmo tempo ou até mesmo abrir terminais de forma rápida, sem precisar usar um segundo monitor, aumentando a produtividade.
 
@@ -98,23 +98,10 @@ Porém, instalei outros temas bem bonitos disponíveis em: [https://github.com/t
 ![Omarchy](/assets/img/omarchy-theme3.png)
 
 
-A experiência do Omarchy é bacana, a filosofia “omakase” de DHH oferece uma experiência polida e opinativa, pronta para uso e focada em desenvolvedores.
-E, na prática, a primeira impressão não desaponta. A produtividade é imediata, graças a um setup pré-configurado e centrado no teclado que elimina distrações.
-A performance é notável, com a fluidez do Hyprland garantindo uma experiência rápida e visualmente agradável.
+Na prática, a primeira impressão não desaponta. A produtividade é imediata, graças a um setup pré-configurado e centrado no teclado que elimina distrações, e a fluidez do Hyprland garante uma experiência rápida e visualmente agradável. Para quem, como eu, estava cansado de gastar tempo ajustando o ambiente de trabalho, o Omarchy é uma verdadeira alavanca de produtividade. O ambiente de desenvolvimento, completo com ferramentas como Neovim e Mise, é consistente e torna a gestão de projetos mais simples, e a estética limpa do sistema ajuda a manter a motivação.
 
-Para quem, como eu, estava cansado de gastar tempo ajustando o ambiente de trabalho o omarchy é uma verdadeira alavanca de produtividade.
-O ambiente de desenvolvimento, completo com ferramentas como Neovim e Mise, é robusto e consistente, tornando a gestão de projetos mais simples.
-E, claro, a estética do sistema, com seu visual limpo e moderno, realmente ajuda a manter a motivação.
+Mas nem tudo foi tranquilo, principalmente pra quem migra de sistemas mais tradicionais. Os problemas com compartilhamento de tela em aplicativos de videoconferência foram um dos primeiros obstáculos pra mim. A configuração de múltiplos monitores também teve suas peculiaridades: precisei pesquisar e ajustar na mão pra acertar a configuração do meu segundo monitor, e isso quebrou o fluxo de trabalho algumas vezes. O Wi-Fi não se conectava automaticamente e, às vezes, o tema configurado não aparecia, só surgindo depois do comando `hyprctl reload`. Esses problemas foram resolvidos depois que instalei a versão 2.0 com a ISO oficial.
 
-No entanto, a jornada com o Omarchy também tem desafios especialmente para quem migra de sistemas mais tradicionais.
-Os problemas com compartilhamento de tela em aplicativos de videoconferência foram um dos primeiros obstáculos pra mim.
-A configuração de múltiplos monitores também apresentou peculiaridades, exigindo ajustes manuais e quebrando o fluxo de trabalho ocasionalmente.
-Tive que fazer algumas pesquisas para acertar a configuração mais adequada para o meu segundo monitor.
-Outra questão foi o Wi-Fi, que não se conectava automaticamente, e, às vezes, o tema configurado do Omarchy não aparecia, surgindo apenas após o comando `hyprctl reload`. Esses problemas foram resolvidos após instalar a versão 2.0 com a ISO oficial.
+A curva de aprendizado do uso intensivo do teclado e da lógica do gerenciador de janelas em mosaico pode intimidar no começo. E, pra quem precisa de dual boot, a instalação via ISO, que impõe a criptografia de disco, pode ser um obstáculo. A compatibilidade com alguns aplicativos e uma base comunitária ainda menor que outras distros levantam dúvidas sobre suporte a longo prazo, embora a estabilidade de um sistema relativamente novo tenha me impressionado.
 
-A curva de aprendizado inicial que é focada no uso intensivo do teclado e na lógica do gerenciador de janelas em mosaico pode ser um pouco intimidante.
-E, para quem precisa de dual boot, a instalação via ISO, que impõe a criptografia de disco, pode ser um obstáculo.
-Por fim, a compatibilidade com alguns aplicativos e a base comunitária ainda menor que outras distros levantam questões sobre suporte a longo prazo, embora eu tenha achado impressionante a estabilidade de um sistema relativamente novo.
-
-Em resumo, o Omarchy é uma excelente opção para desenvolvedores que valorizam produtividade e estética, mas é importante estar ciente dos desafios na transição.
-Ele oferece um ambiente de trabalho rápido, funcional e elegante, mas exige adaptação e paciência para superar as peculiaridades do Linux moderno. você pode instalá-lo em uma VM só para testar e, se gostar, migrar para seu setup principal, assim como eu fiz.
+No fim, o Omarchy é uma boa opção pra quem valoriza produtividade e estética, mas exige adaptação e paciência pra superar as peculiaridades do Linux moderno. Você pode instalá-lo numa VM só pra testar e, se gostar, migrar pro seu setup principal, assim como eu fiz.

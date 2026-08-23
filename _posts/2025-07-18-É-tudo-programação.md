@@ -17,7 +17,7 @@ O que separa os "homens dos meninos" é uma única coisa: **fundamentos**. Eles 
 
 Estruturas de dados te dão o poder de decidir. Você precisa de uma fila, uma pilha ou só uma lista? Ah tá, preciso de algo que precisa sair primeiro à medida que entra primeiro, então uso uma fila, não importa qual é a linguagem, fila vai ser fila. Na verdade, a linguagem é apenas uma ferramenta. Uma chave de fenda como qualquer outra, se você fica magoadinho quando falam dela, acredito que deva mudar de profissão rs.
 
-O problema de se apegar à linguagem é a limitação: "Eu sou programador Python." "Eu só sei Ladder." "Eu só mexo com front-end" — você se coloca numa caixa. Você se rotula. E isso limita o seu crescimento de forma cruel.
+O problema de se apegar à linguagem é a limitação: "Eu sou programador Python." "Eu só sei Ladder." "Eu só mexo com front-end", você se coloca numa caixa. Você se rotula. E isso limita o seu crescimento de forma cruel.
 
 ## **CLP não é diferente de Web**
 
@@ -39,6 +39,6 @@ O ecossistema muda. As bibliotecas. As ferramentas de *debug*. Mas adivinha? Nen
 
 Pare de ver três mundos. Veja apenas **Programação**. Estude fundamentos *de verdade*: arquitetura de computadores, ciência da computação e redes de comunicação. Estude as bases sólidas e depois expanda o resto.
 
-Pratique a **tradução**. Pegue um problema simples, como controle de temperatura, e implemente-o. Faça no Ladder, em C para um microcontrolador, e como um serviço em Python. Você vai descobrir, rapidamente, que o miolo — a lógica central — é idêntica.
+Pratique a tradução. Pegue um problema simples, como controle de temperatura, e implemente-o. Faça no Ladder, em C para um microcontrolador, e como um serviço em Python. Você vai descobrir, rapidamente, que o miolo, a lógica central, é idêntica.
 
 Acredito que o programador diferenciado enxerga software dessa forma. Porque no fim, browsers e máquinas industriais são todos computadores. E quem domina os fundamentos, domina todos eles.

@@ -35,6 +35,6 @@ Eu sei quando preciso de teoria e quando preciso de prática. Sei identificar o 
 
 O mundo vai continuar mudando, sempre. Novas tecnologias vão surgir, modelos de negócio vão evoluir, formas de trabalhar vão se transformar. Você não consegue se preparar para mudanças específicas, mas consegue se preparar para mudar. E isso significa aprender a aprender melhor.
 
-Todo o resto é secundário. Suas habilidades atuais, suas certificações, aquela expertise que você construiu — nada disso importa se você não consegue aprender o próximo passo quando precisar. Aprender é a habilidade que potencializa todas as outras, a única que garante que você vai continuar relevante não importa o que aconteça.
+Todo o resto é secundário. Suas habilidades atuais, suas certificações, aquela expertise que você construiu, nada disso importa se você não consegue aprender o próximo passo quando precisar. Aprender é a habilidade que potencializa todas as outras, a única que garante que você vai continuar relevante não importa o que aconteça.
 
 Se você quer investir em algo na sua carreira, invista em ficar melhor em aprender. Não no que você vai aprender agora, mas em como você aprende. Porque essa é a única habilidade que nunca vai ficar obsoleta.

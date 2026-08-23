@@ -29,7 +29,7 @@ A ISO ficou cerca de 1 GB menor e a instalação ficou uns 30% mais rápida. Mas
 
 ## **A IA deixou de ser aplicativo e virou sistema**
 
-Aqui mora a mudança mais marcante, e também a mais polêmica. A maioria das distros trata IA como um aplicativo que você instala por fora. O Quattro faz o oposto: as ferramentas agênticas vêm embutidas no núcleo do sistema.
+Essa é a mudança mais marcante, e também a mais polêmica. A maioria das distros trata IA como um aplicativo que você instala por fora. O Quattro faz o oposto: as ferramentas agênticas vêm embutidas no núcleo do sistema.
 
 O exemplo que melhor traduz a ideia é o **Crash Watcher**. Ele se conecta ao `systemd-coredump` e, sempre que um processo quebra, o sistema resume o erro e oferece mandar o backtrace pro seu agente de IA padrão, através de uma skill chamada `diagnose-crash`, pra você receber um diagnóstico na hora. Em vez de caçar o log manualmente, o crash chega até você já mastigado.
 
