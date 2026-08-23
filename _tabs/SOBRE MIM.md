@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-Olá! Sou Rafael, programador, apaixonado por tecnologia e entusiasta em programação web, sistemas embarcados e automação industrial, resolvo problemas do mundo real com software....e café.
+Olá! Sou Rafael, programador movido a café e curiosidade por tecnologia. Transito entre programação web, sistemas embarcados e automação industrial, mas no fundo é tudo a mesma coisa: resolver problemas do mundo real com software.
