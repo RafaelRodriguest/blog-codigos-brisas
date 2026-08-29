@@ -3,6 +3,8 @@
   <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
   <meta name="mobile-web-app-capable" content="yes">
+  {% if site.business.cnpj %}<meta name="cnpj" content="{{ site.business.cnpj }}">{% endif %}
+  {% if site.business.razao_social %}<meta name="razao-social" content="{{ site.business.razao_social }}">{% endif %}
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta
     name="viewport"

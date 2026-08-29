@@ -48,6 +48,10 @@ social:
     # - https://www.facebook.com/username
     #- https://www.linkedin.com/in/rafael-rodrigues098/
 
+business:
+  cnpj: "54.188.629/0001-369"
+  razao_social: "JACIANE DA SILVA SOUSA"
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
