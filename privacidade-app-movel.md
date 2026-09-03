@@ -2,6 +2,8 @@
 layout: page
 title: Política de Privacidade - Movel Tracker
 permalink: /privacidade-app-movel/
+sitemap: false
+robots: noindex
 ---
 
 **Última atualização: 03 de setembro de 2026**
